@@ -1,0 +1,9 @@
+
+1.0.7: mobile menu<br />
+1.0.6: uitlijning menu, background opacity<br />
+1.0.5: Menu buttons<br />
+1.0.4: default size to 17<br />
+1.0.3: changed color of headings<br />
+1.0.2: added Bungee font<br />
+1.0.1: changed colors<br />
+1.0.0: initial release

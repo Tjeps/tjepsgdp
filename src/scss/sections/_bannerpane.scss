@@ -1,0 +1,30 @@
+.bannerpane {
+  background:$secondary-color;
+  background:linear-gradient(180deg, darken($secondary-color, 20%) 0%, $secondary-color 50%, lighten($secondary-color, 20%) 100%);
+  color:white;
+  
+  div[class*='col-'] {
+    padding-top:6rem;
+    padding-bottom:6rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .bannerpane div[class*=col-] {
+    padding-bottom: 0;
+    padding-top: 3rem;
+  }
+  
+}
+
+.topPane {
+  background-image: url("https://www.haarlemgeeftlicht.nl/Portals/1/Images/happy-woman-posing-for-smartphone-at-christmas-1920.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.banner-back {
+  background-color: white;
+  padding: 2rem;
+  text-align: left;
+}
